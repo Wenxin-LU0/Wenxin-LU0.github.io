@@ -9,8 +9,8 @@
 title                    : "Wenxin Luo"
 description              : "Research Assistant at Lingnan University."
 url                      : "https://wenxin-lu0.github.io"
-baseurl                  : "/Wenxin-LUO.github.io"
-repository               : "Wenxin-LU0/Wenxin-LUO.github.io"
+baseurl                  : ""
+repository               : "Wenxin-LU0/Wenxin-LU0.github.io"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
