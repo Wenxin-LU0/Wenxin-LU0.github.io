@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title">
+  <title id="title">GuardAlign method illustration</title>
+  <rect width="720" height="420" fill="#f2f5f8"/>
+  <g fill="none" stroke="#b7c3d0" stroke-width="2"><path d="M0 105h720M0 210h720M0 315h720M180 0v420M360 0v420M540 0v420"/></g>
+  <g transform="translate(116 96)">
+    <rect x="0" y="62" width="150" height="96" rx="13" fill="#fff" stroke="#224b8d" stroke-width="4"/>
+    <text x="75" y="118" text-anchor="middle" fill="#34424f" font-family="Arial" font-size="24">LLM</text>
+    <path d="M150 110h79" stroke="#224b8d" stroke-width="5"/>
+    <path d="m216 98 18 12-18 12" fill="none" stroke="#224b8d" stroke-width="5"/>
+    <path d="M300 34 390 69v69c0 64-45 101-90 119-45-18-90-55-90-119V69Z" fill="#224b8d"/>
+    <path d="m260 137 27 28 57-66" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="360" y="370" text-anchor="middle" fill="#506477" font-family="Arial" font-size="24" letter-spacing="4">GUARDRAIL-AWARE ALIGNMENT</text>
+</svg>

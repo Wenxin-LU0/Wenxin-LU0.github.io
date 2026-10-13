@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">Wenxin Luo</title>
+  <desc id="desc">A monogram portrait with the initials WL</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e9edf2"/>
+      <stop offset="1" stop-color="#b8c4d2"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)"/>
+  <circle cx="200" cy="200" r="132" fill="#fff" fill-opacity=".72" stroke="#224b8d" stroke-width="5"/>
+  <path d="M68 245c62-46 99-32 132-5 34 28 77 39 132-2" fill="none" stroke="#224b8d" stroke-opacity=".18" stroke-width="10"/>
+  <circle cx="306" cy="94" r="18" fill="#224b8d"/>
+  <text x="200" y="231" fill="#34424f" font-family="Georgia, serif" font-size="92" font-style="italic" text-anchor="middle">WL</text>
+</svg>
