@@ -122,7 +122,6 @@ h1:before, .anchor:before {
 
 /* Keep textual hyperlinks visually consistent across content and profile areas. */
 .page__content a:not(.btn),
-.author__urls a,
 .page__footer a {
     color: $link-color;
     font-family: $global-font-family;
@@ -137,19 +136,26 @@ h1:before, .anchor:before {
 }
 
 .page__content a:not(.btn):visited,
-.author__urls a:visited,
 .page__footer a:visited {
     color: $link-color;
 }
 
 .page__content a:not(.btn):hover,
 .page__content a:not(.btn):focus,
-.author__urls a:hover,
-.author__urls a:focus,
 .page__footer a:hover,
 .page__footer a:focus {
     color: $link-color-hover;
     text-decoration-color: currentColor;
+}
+
+/* Keep Site Author links understated and consistent with the original profile style. */
+.author__urls a,
+.author__urls a:visited,
+.author__urls a:hover,
+.author__urls a:focus {
+    color: #000;
+    font-weight: normal;
+    text-decoration: none;
 }
 
 /* Markdown labels such as **PDF** inherit the same link typography. */
