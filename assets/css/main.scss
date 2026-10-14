@@ -149,10 +149,10 @@ h1:before, .anchor:before {
 }
 
 /* Keep Site Author links understated and consistent with the original profile style. */
-.author__urls a,
-.author__urls a:visited,
-.author__urls a:hover,
-.author__urls a:focus {
+.author__urls-wrapper a:not(.btn),
+.author__urls-wrapper a:not(.btn):visited,
+.author__urls-wrapper a:not(.btn):hover,
+.author__urls-wrapper a:not(.btn):focus {
     color: #000;
     font-weight: normal;
     text-decoration: none;
