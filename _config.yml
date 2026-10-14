@@ -24,13 +24,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenxin Luo"
   avatar           : "images/profile.jpg"
-  bio              : "LLM Security & Alignment"
+  bio              : #"LLM Security & Alignment"
   location         :
   employer         :
   pubmed           : 
   googlescholar    :
   email            : "wenxinluo5-c@my.cityu.edu.hk"
-  researchgate     : #"https://www.researchgate.net/profile/Yi-Wen-40"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
