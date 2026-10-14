@@ -112,6 +112,14 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+.publication-note {
+    margin-left: 0.35em;
+    color: $gray;
+    font-size: 0.55em;
+    font-weight: normal;
+    white-space: nowrap;
+}
+
 /* Keep textual hyperlinks visually consistent across content and profile areas. */
 .page__content a:not(.btn),
 .author__urls a,

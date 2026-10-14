@@ -1,8 +1,6 @@
 <span class='anchor' id='publications'></span>
 
-# 📝 Publications
-
-(<sup>*</sup> indicates equal contribution.)
+# 📝 Publications <span class="publication-note">(<sup>*</sup> indicates equal contribution.)</span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/tapo.png' alt="TAPO task-referenced prompt optimization illustration" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
