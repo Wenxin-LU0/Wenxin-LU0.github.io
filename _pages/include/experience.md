@@ -15,3 +15,7 @@
 - **2024.01 - 2025.05**, Student Researcher, **City University of Hong Kong**. Supervisor: Prof. Xiangyu Zhao.
   - Developed a reinforcement learning method for task-adaptive prompt optimization, resulting in a publication at ICASSP 2025.
   - Built a text classifier using CNN encoding and GCN feature propagation; the [dissertation]({{ '/pdf/Hierarchy_Feature_Representation_Model.pdf' | relative_url }}) received grade A.
+
+- **2023.03**, Core Member, **The 15th National Conference on Undergraduate Innovation and Entrepreneurship**, Beijing University of Technology.
+  - Contributed to the project *Dynamic Camera Configuration Optimization for Active Object Detection*, which received national-level project funding from the National Undergraduate Innovation and Entrepreneurship Training Program. [**Certificate**]({{ '/pdf/Active_Object_Detection_Innovation_Project_Certificate.pdf' | relative_url }})
+  - Developed the image preprocessing pipeline, including resizing, data augmentation, and data annotation, to improve dataset consistency and model generalization.
