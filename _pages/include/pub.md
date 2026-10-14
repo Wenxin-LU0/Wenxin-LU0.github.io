@@ -10,7 +10,8 @@
 
 **Wenxin Luo**<sup>*</sup>, Weirui Wang<sup>*</sup>, Xiaopeng Li<sup>*</sup>, Weibo Zhou, Pengyue Jia, Xiangyu Zhao. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025). [**Code**](https://github.com/Applied-Machine-Learning-Lab/TAPO) [**PDF**](https://ieeexplore.ieee.org/document/10888677)
 
-- We develop a reinforcement learning method for task-adaptive prompt optimization and introduce task-referenced evaluation metrics.
+- We introduce TAPO, a multitask-aware prompt optimization framework that combines task-aware metric selection, multi-metric evaluation, and evolution-based optimization to generate task-adaptive prompts.
+- Evaluated on six datasets, TAPO consistently improves task-specific LLM performance while reducing the risk of sub-optimal prompt solutions.
 </div>
 </div>
 
@@ -30,6 +31,7 @@
 
 **Wenxin Luo**. 5th International Conference on Advanced Algorithms and Control Engineering (ICAACE 2022). [**PDF**](https://iopscience.iop.org/article/10.1088/1742-6596/2258/1/012027/meta)
 
-- We introduce a proportional factor based on Nash equilibrium into particle swarm optimization.
+- We propose an enhanced particle swarm optimization algorithm for Nash-equilibrium problems by incorporating a proportional factor into the particle-evolution equation.
+- The method maps particles and iterations to strategies in normal-form games, improving convergence efficiency and accuracy while mitigating particle overflow and divergence across classical test cases.
 </div>
 </div>
