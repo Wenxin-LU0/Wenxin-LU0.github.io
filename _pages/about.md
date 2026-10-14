@@ -14,9 +14,9 @@ redirect_from:
 
 {% include_relative include/pub.md %}
 
-{% include_relative include/patents.md %}
-
 {% include_relative include/experience.md %}
+
+{% include_relative include/patents.md %}
 
 {% include_relative include/edu.md %}
 
