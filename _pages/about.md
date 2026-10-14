@@ -21,5 +21,3 @@ redirect_from:
 {% include_relative include/edu.md %}
 
 {% include_relative include/services.md %}
-
-{% include_relative include/skills.md %}
