@@ -2,15 +2,13 @@
 
 # 🔬 Research Experience
 
-- **2026.01 - Present**, Research Assistant, **Lingnan University**. Supervisor: Prof. Daoyuan Wu.
+- **Jun 2025 - Present**, **Research Assistant, LLM Security and Alignment**
+  - **Supervisors:** Prof. Daoyuan Wu and Prof. Ning Liu
+  - ***Appointments:*** **Hong Kong University of Science and Technology (HKUST)** (Jun - Sep 2025); **Lingnan University** (Sep - Nov 2025, May 2026 - Present); **City University of Hong Kong** (Dec 2025 - Apr 2026).
   - Conducting research on LLM security and alignment, adversarial evaluation, and defense mechanisms.
   - Developing safety-aware fine-tuning methods to improve jailbreak robustness while preserving benign utility.
-
-- **2025.10 - 2025.12**, Research Assistant, **City University of Hong Kong**. Supervisors: Prof. Ning Liu and Prof. Daoyuan Wu.
-  - Developed and maintained an [academic website](https://societal-governance.github.io/) supporting seminar outreach and research dissemination.
-
-- **2025.06 - 2025.09**, Research Assistant, **Hong Kong University of Science and Technology**. Supervisor: Prof. Daoyuan Wu.
   - Explored audio-based telecom fraud detection using near-domain negative samples and LLM-driven red-teaming pipelines.
+  - Developed and maintained an [academic website](https://societal-governance.github.io/) supporting seminar outreach and research dissemination.
 
 - **2024.01 - 2025.05**, Student Researcher, **City University of Hong Kong**. Supervisor: Prof. Xiangyu Zhao.
   - Developed a reinforcement learning method for task-adaptive prompt optimization, resulting in a publication at ICASSP 2025.
