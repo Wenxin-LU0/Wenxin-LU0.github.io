@@ -21,7 +21,7 @@
 
 **Wenxin Luo**. Master's Dissertation, M.Sc. in Data Science, City University of Hong Kong, November 2024. [**PDF**]({{ '/pdf/Hierarchy_Feature_Representation_Model.pdf' | relative_url }})
 
-- We propose HiFRM, a hierarchy-aware text classification framework that combines text feature propagation with label-feature-aware evaluation to improve performance, particularly on rare labels.
+- HiFRM is a hierarchy-aware text classification framework that combines text feature propagation with label-feature-aware evaluation to improve performance, particularly on rare labels.
 </div>
 </div>
 
@@ -31,7 +31,7 @@
 
 **Wenxin Luo**. 5th International Conference on Advanced Algorithms and Control Engineering (ICAACE 2022). [**PDF**](https://iopscience.iop.org/article/10.1088/1742-6596/2258/1/012027/meta)
 
-- We propose an enhanced particle swarm optimization algorithm for Nash-equilibrium problems by incorporating a proportional factor into the particle-evolution equation.
+- This work proposes an enhanced particle swarm optimization algorithm for Nash-equilibrium problems by incorporating a proportional factor into the particle-evolution equation.
 - The method maps particles and iterations to strategies in normal-form games, improving convergence efficiency and accuracy while mitigating particle overflow and divergence across classical test cases.
 </div>
 </div>

@@ -107,3 +107,40 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Keep textual hyperlinks visually consistent across content and profile areas. */
+.page__content a:not(.btn),
+.author__urls a,
+.page__footer a {
+    color: $link-color;
+    font-family: $global-font-family;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: 600;
+    text-decoration: underline;
+    text-decoration-color: rgba($link-color, 0.45);
+    text-decoration-thickness: 0.08em;
+    text-underline-offset: 0.16em;
+    transition: color 0.15s ease, text-decoration-color 0.15s ease;
+}
+
+.page__content a:not(.btn):visited,
+.author__urls a:visited,
+.page__footer a:visited {
+    color: $link-color;
+}
+
+.page__content a:not(.btn):hover,
+.page__content a:not(.btn):focus,
+.author__urls a:hover,
+.author__urls a:focus,
+.page__footer a:hover,
+.page__footer a:focus {
+    color: $link-color-hover;
+    text-decoration-color: currentColor;
+}
+
+/* Markdown labels such as **PDF** inherit the same link typography. */
+.page__content a:not(.btn) strong {
+    font: inherit;
+}
