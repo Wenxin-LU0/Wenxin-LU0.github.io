@@ -4,7 +4,7 @@
 
 (<sup>*</sup> indicates equal contribution.)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/tapo.svg' alt="TAPO task-referenced prompt optimization illustration" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='images/tapo.png' alt="TAPO task-referenced prompt optimization illustration" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <font size="3"><h5>TAPO: Task-Referenced Adaptation for Prompt Optimization</h5></font>
 
@@ -14,7 +14,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Master's Dissertation</div><img src='images/dissertation.svg' alt="HiFRM hierarchical text classification illustration" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Master's Dissertation</div><img src='images/dissertation.png' alt="HiFRM hierarchical text classification illustration" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <font size="3"><h5>Hierarchy-Feature Representation Model for Hierarchical Text Classification</h5></font>
 
@@ -24,7 +24,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICAACE 2022</div><img src='images/pso.svg' alt="Particle swarm optimization illustration" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICAACE 2022</div><img src='images/pso.png' alt="Particle swarm optimization illustration" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <font size="3"><h5>Particle Swarm Optimization Algorithm with Proportional Factor Based on Nash Equilibrium</h5></font>
 
