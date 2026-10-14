@@ -14,4 +14,4 @@
 
 - **2024.01 - 2025.05**, Student Researcher, **City University of Hong Kong**. Supervisor: Prof. Xiangyu Zhao.
   - Developed a reinforcement learning method for task-adaptive prompt optimization, resulting in a publication at ICASSP 2025.
-  - Built a text classifier using CNN encoding and GCN feature propagation; the [dissertation](https://drive.google.com/file/d/179FGqy_X7pzjx9YPItNNdB__4tO63A61/view?usp=drive_link) received grade A.
+  - Built a text classifier using CNN encoding and GCN feature propagation; the [dissertation]({{ '/pdf/Hierarchy_Feature_Representation_Model.pdf' | relative_url }}) received grade A.

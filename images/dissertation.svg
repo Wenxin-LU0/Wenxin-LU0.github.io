@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title">
+  <title id="title">HiFRM hierarchical text classification illustration</title>
+  <rect width="720" height="420" fill="#f3f6f9"/>
+  <g fill="none" stroke="#8297aa" stroke-width="5" stroke-linecap="round">
+    <path d="M360 105v54M360 159H198v61M360 159h162v61"/>
+    <path d="M198 274v43M198 317h-83v28M198 317h83v28"/>
+    <path d="M522 274v43M522 317h-83v28M522 317h83v28"/>
+  </g>
+  <g fill="#fff" stroke="#224b8d" stroke-width="5">
+    <rect x="272" y="45" width="176" height="64" rx="14"/>
+    <rect x="126" y="216" width="144" height="60" rx="13"/>
+    <rect x="450" y="216" width="144" height="60" rx="13"/>
+    <rect x="59" y="342" width="112" height="48" rx="12"/>
+    <rect x="225" y="342" width="112" height="48" rx="12"/>
+    <rect x="383" y="342" width="112" height="48" rx="12"/>
+    <rect x="549" y="342" width="112" height="48" rx="12"/>
+  </g>
+  <g fill="#34424f" font-family="Arial, sans-serif" text-anchor="middle">
+    <text x="360" y="84" font-size="25" font-weight="700">HiFRM</text>
+    <text x="198" y="253" font-size="21">Text Features</text>
+    <text x="522" y="253" font-size="21">Label Features</text>
+    <text x="115" y="373" font-size="17">Coarse</text>
+    <text x="281" y="373" font-size="17">Fine</text>
+    <text x="439" y="373" font-size="17">Frequent</text>
+    <text x="605" y="373" font-size="17">Rare</text>
+  </g>
+  <text x="360" y="155" text-anchor="middle" fill="#224b8d" font-family="Arial, sans-serif" font-size="18" letter-spacing="2">HIERARCHY-AWARE REPRESENTATION</text>
+</svg>

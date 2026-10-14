@@ -14,6 +14,16 @@
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Master's Dissertation</div><img src='images/dissertation.svg' alt="HiFRM hierarchical text classification illustration" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<font size="3"><h5>Hierarchy-Feature Representation Model for Hierarchical Text Classification</h5></font>
+
+**Wenxin Luo**. Master's Dissertation, M.Sc. in Data Science, City University of Hong Kong, November 2024. [**PDF**]({{ '/pdf/Hierarchy_Feature_Representation_Model.pdf' | relative_url }})
+
+- We propose HiFRM, a hierarchy-aware text classification framework that combines text feature propagation with label-feature-aware evaluation to improve performance, particularly on rare labels.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICAACE 2022</div><img src='images/pso.svg' alt="Particle swarm optimization illustration" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <font size="3"><h5>Particle Swarm Optimization Algorithm with Proportional Factor Based on Nash Equilibrium</h5></font>
