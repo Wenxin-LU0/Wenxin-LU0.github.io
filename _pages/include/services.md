@@ -1,7 +1,7 @@
 <span class='anchor' id='services'></span>
 <span class='anchor' id='skills'></span>
 
-# 🛠️ Skills \& Services
+# 🛠️ Skills & Services
 
 - **Programming**: Python, Java, HTML/CSS.
 - **Libraries / Frameworks**: PyTorch, Transformers, NumPy, Pandas, TensorFlow.
