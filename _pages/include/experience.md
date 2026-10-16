@@ -5,7 +5,7 @@
   - **2025.06–Present**, Research Assistant, Supervisors: Prof. Daoyuan Wu and Prof. Ning Liu.
       - Hong Kong University of Science and Technology (Jun–Sep 2025)
       - Lingnan University (Sep–Nov 2025, May 2026–Present)
-      - City University of Hong Kong (Dec 2025–Apr 2025)
+      - City University of Hong Kong (Dec 2025–Apr 2026)
 {% comment %}
   - Conducting research on LLM security and alignment, adversarial evaluation, and defense mechanisms.
   - Developing safety-aware fine-tuning methods to improve jailbreak robustness while preserving benign utility.
