@@ -2,9 +2,9 @@
 
 # 🔬 Research Experience
 
-  - **2025.06–Present**, esearch Assistant, supervised by Prof. Daoyuan Wu and Prof. Ning Liu.
+  - **2025.06–Present**, Research Assistant, supervised by Prof. Daoyuan Wu and Prof. Ning Liu.
       - The Hong Kong University of Science and Technology (Jun–Sep 2025)
-      - Lingnan University (Sep–Nov 2025, May 2026–Present)
+      - Lingnan University (Sep–Nov 2025; May 2026–Present)
       - City University of Hong Kong (Dec 2025–Apr 2026)
 {% comment %}
   - Conducting research on LLM security and alignment, adversarial evaluation, and defense mechanisms.

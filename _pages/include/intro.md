@@ -6,4 +6,4 @@ She holds an M.Sc. in Data Science from City University of Hong Kong and a B.Eng
 Her research focuses on large language models, machine learning, and AI security and alignment.
 
 
-<p><i class="fas fa-download pr-1 fa-fw"></i> Download my <a href="{{ '/pdf/Wenxin_Luo_CV.pdf' | relative_url }}" target="_blank">CV</a>.</p>
+<p><i class="fas fa-download pr-1 fa-fw"></i> Download her <a href="{{ '/pdf/Wenxin_Luo_CV.pdf' | relative_url }}" target="_blank">CV</a>.</p>
