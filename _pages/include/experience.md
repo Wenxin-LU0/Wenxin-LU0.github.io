@@ -10,7 +10,7 @@
   - Conducting research on LLM security and alignment, adversarial evaluation, and defense mechanisms.
   - Developing safety-aware fine-tuning methods to improve jailbreak robustness while preserving benign utility.
   - Explored audio-based telecom fraud detection using near-domain negative samples and LLM-driven red-teaming pipelines.
-  - Developed and maintained an [academic website](https://societal-governance.github.io/) supporting seminar outreach and research dissemination.
+  - Developed and maintained an [academic website](https://societal-governance.github.io/){:target="_blank" rel="noopener noreferrer"} supporting seminar outreach and research dissemination.
 {% endcomment %}
 
 - **2024.01–2025.05**, Student Researcher, City University of Hong Kong. Supervisor: Prof. Xiangyu Zhao.

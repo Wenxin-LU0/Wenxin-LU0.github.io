@@ -2,4 +2,4 @@
 
 # 💡 Patents
 
-- *An Auxiliary Teaching Aid for Financial Economics Education*. Co-inventor. [**Patent**](http://epub.cnipa.gov.cn/cred/CN119007541B)
+- *An Auxiliary Teaching Aid for Financial Economics Education*. Co-inventor. [**Patent**](http://epub.cnipa.gov.cn/cred/CN119007541B){:target="_blank" rel="noopener noreferrer"}
